@@ -1,4 +1,4 @@
-##### Hi there 🌎
+#### Hi there 🌎
 
 #### My favorite tools 🛠
 1. Svelte
@@ -8,10 +8,10 @@
 6. Express
 7. MongoDB
 
-#### I'm learning
+#### I'm learning 🌱
 - TypeScript
 - NextJS
 - ThreeJS / ReactThreeFiber
 
-#### I can't wait for
+#### I can't wait for ⏳
 - SvelteKit to be released
