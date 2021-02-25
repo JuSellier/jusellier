@@ -1,6 +1,6 @@
 #### Hi there 🌎
 
-#### My favorite tools 🛠
+#### Tools I love using 🛠
 1. Svelte
 2. Sass
 3. P5.js
