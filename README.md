@@ -1,17 +1,17 @@
-### Hi there 🌎
+##### Hi there 🌎
 
-#### I love using
-##### 💚 Svelte
-##### 💚 React
-##### 💚 Sass
-##### 💚 Express
-##### 💚 MongoDB
-##### 💚 P5.js
+#### My favorite tools 🛠
+1. Svelte
+2. Sass
+3. P5.js
+4. React
+6. Express
+7. MongoDB
 
 #### I'm learning
-##### 🌱 TypeScript
-##### 🌱 NextJS
-##### 🌱 ThreeJS / ReactThreeFiber
+- TypeScript
+- NextJS
+- ThreeJS / ReactThreeFiber
 
 #### I can't wait for
-##### ⏳ SvelteKit to be released
+- SvelteKit to be released
