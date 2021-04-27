@@ -1,5 +1,6 @@
 #### Hi 🌎 
 #### Feel free to check out some websites I designed & built...
+- [RecordEye.fr](https://recordeye.fr) (audiovisual production agency based in Paris)
 - [NeoCraft.app](https://neocraft.app) (algorithmic art project using p5.js)
 - [SvelteIcons.dev](https://svelteicons.dev) (explore icons from the svelte-icons library)
 - [Colors.jusellier](https://colors.jusellier.com) (just some color palettes that I like)
